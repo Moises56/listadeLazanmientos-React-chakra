@@ -1,4 +1,4 @@
-# listadeLazanmientos-React-chakra
+# lista de Lazanmientos SpaceX con React-chakra
 
 This project was generated with [Vita React].
 
