@@ -15,3 +15,6 @@ se utilizo
 2. REACT
 3. Chakra-ui para los estilos (https://chakra-ui.com/)
 4. react Icons (https://react-icons.github.io/react-icons/)
+
+##Licencia
+MIT © 2022 Moisés Avilés
