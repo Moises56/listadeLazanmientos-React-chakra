@@ -17,7 +17,7 @@ se utilizo
 4. react Icons (https://react-icons.github.io/react-icons/)
 
 ## IMG
-![List Launches](https://github.com/Moises56/listadeLazanmientos-React-chakra/main/assets/ImagenV1.png?raw=true)
+![List Launches](https://github.com/Moises56/listadeLazanmientos-React-chakra/main/src/assets/ImagenV1.png)
 ![List Launches](https://github.com/Moises56/listadeLazanmientos-React-chakra/main/src/assets/ImagenV2.png?raw=true)
 
 ## Licencia
