@@ -1,0 +1,7 @@
+1. crear un proyecto con vite
+> npm create vite@latest
+
+2. arancar el proyecto
+>npm run dev
+
+3. instalar extencion React Developer Tools
