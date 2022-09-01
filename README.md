@@ -1,10 +1,10 @@
 # lista de Lazanmientos SpaceX con React-chakra
 
-This project was generated with [Vita React].
+_This project was generated with [Vita React]._
 
 ## Development server
 
-Run `npm run dev` for a dev server. Navigate to `http://localhost:5173/`. The app will automatically reload if you change any of the source files.
+_Ejecute `npm run dev` para un servidor de desarrollo. Navega a `http://localhost:5173/`. La aplicación se recargará automáticamente si cambias alguno de los archivos fuente._
 
 ## Descripcion
  _este es un proyecto usando la api de SpaceX que muestra los lanzamientos realizados y otros detalles
