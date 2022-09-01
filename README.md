@@ -7,8 +7,8 @@ This project was generated with [Vita React].
 Run `npm run dev` for a dev server. Navigate to `http://localhost:5173/`. The app will automatically reload if you change any of the source files.
 
 ## Descripcion
- este es un proyecto usando la api de SpaceX que muestra los lanzamientos realizados y otros detalles
-se utilizo
+ _este es un proyecto usando la api de SpaceX que muestra los lanzamientos realizados y otros detalles
+se utilizo._
 
 ### Requeriments 📋
 
