@@ -1,3 +1,3 @@
 export function RocketDetails() {
-    return <div>TODO</div>;
+    return <div>NEW RocketDetails</div>;
 }
